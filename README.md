@@ -1,3 +1,4 @@
+![LOGO](https://github.com/sharwanisingh/sharwanisingh-/blob/main/68747470733a2f2f632e74656e6f722e636f6d2f4267695f35346d6565694d41414141432f616e696d652d747970696e672e676966.gif)
 <h1 align="center">Hi 👋, I'm Sharwani</h1>
 <h3 align="center">A computer science engineer is like a wizard who uses algorithms and data to create amazing things, shaping the future by typing on a keyboard and using logical thinking.</h3>
 
